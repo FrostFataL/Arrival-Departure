@@ -1,0 +1,33 @@
+H:\GitHub\Arrival Departure\Arrival Departure\obj\Debug\MainWindow.baml
+H:\GitHub\Arrival Departure\Arrival Departure\obj\Debug\NewPassport.baml
+H:\GitHub\Arrival Departure\Arrival Departure\obj\Debug\MainWindow.g.cs
+H:\GitHub\Arrival Departure\Arrival Departure\obj\Debug\NewPassport.g.cs
+H:\GitHub\Arrival Departure\Arrival Departure\obj\Debug\App.g.cs
+H:\GitHub\Arrival Departure\Arrival Departure\obj\Debug\Arrival Departure_MarkupCompile.cache
+H:\GitHub\Arrival Departure\Arrival Departure\obj\Debug\Arrival Departure.g.resources
+H:\GitHub\Arrival Departure\Arrival Departure\obj\Debug\Arrival_Departure.Properties.Resources.resources
+H:\GitHub\Arrival Departure\Arrival Departure\obj\Debug\Arrival Departure.csproj.GenerateResource.Cache
+H:\GitHub\Arrival Departure\Arrival Departure\bin\Debug\Arrival Departure.exe.config
+H:\GitHub\Arrival Departure\Arrival Departure\bin\Debug\Arrival Departure.exe
+H:\GitHub\Arrival Departure\Arrival Departure\bin\Debug\Arrival Departure.pdb
+H:\GitHub\Arrival Departure\Arrival Departure\obj\Debug\Arrival Departure.exe
+H:\GitHub\Arrival Departure\Arrival Departure\obj\Debug\Arrival Departure.pdb
+H:\GitHub\Arrival Departure\Arrival Departure\obj\Debug\Main.baml
+H:\GitHub\Arrival Departure\Arrival Departure\obj\Debug\Main.g.cs
+H:\GitHub\Arrival-Departure\Arrival Departure\Arrival Departure\bin\Debug\Arrival Departure.exe.config
+H:\GitHub\Arrival-Departure\Arrival Departure\Arrival Departure\obj\Debug\Arrival Departure.exe
+H:\GitHub\Arrival-Departure\Arrival Departure\Arrival Departure\obj\Debug\Arrival Departure.pdb
+H:\GitHub\Arrival-Departure\Arrival Departure\Arrival Departure\bin\Debug\Arrival Departure.exe
+H:\GitHub\Arrival-Departure\Arrival Departure\Arrival Departure\bin\Debug\Arrival Departure.pdb
+H:\GitHub\Arrival-Departure\Arrival Departure\Arrival Departure\obj\Debug\Arrival Departure.csprojResolveAssemblyReference.cache
+H:\GitHub\Arrival-Departure\Arrival Departure\Arrival Departure\obj\Debug\Main.baml
+H:\GitHub\Arrival-Departure\Arrival Departure\Arrival Departure\obj\Debug\MainWindow.baml
+H:\GitHub\Arrival-Departure\Arrival Departure\Arrival Departure\obj\Debug\NewPassport.baml
+H:\GitHub\Arrival-Departure\Arrival Departure\Arrival Departure\obj\Debug\Main.g.cs
+H:\GitHub\Arrival-Departure\Arrival Departure\Arrival Departure\obj\Debug\MainWindow.g.cs
+H:\GitHub\Arrival-Departure\Arrival Departure\Arrival Departure\obj\Debug\NewPassport.g.cs
+H:\GitHub\Arrival-Departure\Arrival Departure\Arrival Departure\obj\Debug\App.g.cs
+H:\GitHub\Arrival-Departure\Arrival Departure\Arrival Departure\obj\Debug\Arrival Departure_MarkupCompile.cache
+H:\GitHub\Arrival-Departure\Arrival Departure\Arrival Departure\obj\Debug\Arrival Departure.g.resources
+H:\GitHub\Arrival-Departure\Arrival Departure\Arrival Departure\obj\Debug\Arrival_Departure.Properties.Resources.resources
+H:\GitHub\Arrival-Departure\Arrival Departure\Arrival Departure\obj\Debug\Arrival Departure.csproj.GenerateResource.Cache
