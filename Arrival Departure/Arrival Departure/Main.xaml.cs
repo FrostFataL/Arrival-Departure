@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using System.Data.OleDb;
+using System.Data;
+using System.Collections;
 
 namespace Arrival_Departure
 {
@@ -21,6 +23,7 @@ namespace Arrival_Departure
     public partial class Main : Window
     {
         DB database;
+        Users usr;
 
         public Main()
         {
@@ -56,10 +59,29 @@ namespace Arrival_Departure
 
         private void MoreInfo(object sender, SelectionChangedEventArgs e)
         {
+            //Users usr = new Users();
+            //Users usr = (Users)DG.SelectedItem;
+            //MessageBox.Show(usr.FullName);
             //database.UsersQuery(DG.SelectedItem.ToString());
             //List lst = DG.SelectedItems;
             //MessageBox.Show();
+            //DataRowView drv = DG.SelectedItems;
         }
+    }
 
+    public class Users
+    {
+        public int Id { get; set; }
+        public String PassportSeries { get; set; }
+        public String PassportNumber { get; set; }
+        public String FullName { get; set; }
+        public String Gender { get; set; }
+        public String BirthDay { get; set; }
+        public String BirthPlace { get; set; }
+        public String PassportIssued { get; set; }
+        public String WhenPassportIssued { get; set; }
+        public String RegistrationCity { get; set; }
+        public String RegistrationStreet { get; set; }
+        public String RegistrationHouse { get; set; }
     }
 }

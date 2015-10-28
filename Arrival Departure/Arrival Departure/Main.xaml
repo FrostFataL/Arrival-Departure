@@ -16,7 +16,10 @@
         <Label Grid.Row="0" Grid.Column="0" Content="Поиск по ФИО" Margin="10,10"/>
         <TextBox Grid.Row="0" Grid.Column="1" x:Name="NameFilter" Margin="10,10"/>
         <Button Grid.Row="0" Grid.Column="2" x:Name="FilterBtn" Margin="10,10" Content="Поиск" Click="Filtering" IsDefault="True"/>
-        <DataGrid Grid.Row="1" Grid.ColumnSpan="3" x:Name="DG" VerticalAlignment="Top" Height="236" Loaded="DataGridLoad" Margin="10,10,10,0" IsReadOnly="True" SelectionChanged="MoreInfo"/>
+        <DataGrid Grid.Row="1" Grid.ColumnSpan="3" x:Name="DG" VerticalAlignment="Top" Height="236" Loaded="DataGridLoad" 
+                  Margin="10,10,10,0" IsReadOnly="True" SelectionChanged="MoreInfo" SelectedItem="{Binding Path = usr}">
+            
+        </DataGrid>
         <Button Grid.Row="2" Grid.Column="0" Margin="10,10" Content="Новый паспорт" Click="AddNewPassport"/>
     </Grid>
 </Window>

@@ -68,6 +68,19 @@ namespace Arrival_Departure
             //CloseDB();
         }
 
+        public OleDbDataAdapter ShowUsersTransitList(DataGrid dg)
+        {
+            command = new OleDbCommand("Select * from transit");
+            command.Connection = conn;
+            command.ExecuteNonQuery();
+            DataTable data = new DataTable();
+            OleDbDataAdapter dataAdapter = new OleDbDataAdapter(command);
+            dataAdapter.Fill(data);
+            dg.ItemsSource = data.DefaultView;
+            dataAdapter.Update(data);
+            return dataAdapter;
+        }
+
         public OleDbDataAdapter ShowUsersList(DataGrid dg)
         {
             command = new OleDbCommand("Select * from data;");
